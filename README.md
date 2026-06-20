@@ -1,6 +1,9 @@
 # Disciplina de Inteligência Artificial , Professor Munif , Unicesumar 2026
 
 ---
+Leonardo Xavier Rodrigues RA: 23178963-2
+
+---
 
 # Comparação de Modelos de IA para Classificação de Tipos de Treino Físico
 ## HIIT vs Hipertrofia vs Treino Concorrente
