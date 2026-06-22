@@ -1,7 +1,10 @@
 # Disciplina de Inteligência Artificial , Professor Munif , Unicesumar 2026
 
 ---
+
 Leonardo Xavier Rodrigues RA: 23178963-2
+Bruno Valério Abrahim RA: 23000333-2
+Joao fernando Ehlers RA: 23317130-2
 
 ---
 
